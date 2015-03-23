@@ -1,4 +1,4 @@
-# SUMMARY
+# 开光大会记录
 
 * [缘起](/source/begin.md)
 * [part1](./source/part1/introduction)
