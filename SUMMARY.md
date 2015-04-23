@@ -7,6 +7,6 @@
   * [Maillinglist教程](./source/part1/3.md)
   * [Github教程](./source/part1/4.md)
   * [Gitbook教程](./source/part1/5.md)
-* [第二周教程](./source/part2/introduction)
+* [Python 教程](./source/part2/introduction)
   * [测试](./source/part2/1.md)
 * [结尾](./source/end.md)
